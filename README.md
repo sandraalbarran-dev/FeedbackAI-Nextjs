@@ -47,7 +47,7 @@ FeedbackAI is a user-friendly platform for anonymous feedback with AI-powered su
 Clone the project
 
 ```bash
-    https://github.com/Mshandev/FeedbackAI-Nextjs.git
+    https://github.com/sandraalbarran-dev/FeedbackAI-Nextjs.git
 ```
 Go to the project directory
 
@@ -94,6 +94,3 @@ The application is deployed on Vercel.
 Contributions are always welcome!
 Just raise an issue, and we will discuss it.
 
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
